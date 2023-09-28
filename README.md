@@ -2,10 +2,7 @@
 
 ###### Readme Format by [gdalmau](https://github.com/gdalmau/lakera-gandalf-solutions/tree/main)
 
-These are my inputs given to the LLM [Gandalf](https://gandalf.lakera.ai/) made by Lakera in each level in order to obtain the secret passwords. Since the LLM is non-deterministic, sometimes these prompts might not work and the model may give different outputs.
-
-Note that this was done as of 2023/06/03 and the model might have changed since then.
-
+These are my inputs given to the LLM [Gandalf](https://gandalf.lakera.ai/) made by Lakera in each level in order to obtain the secret passwords. 
 
 ## Level 1
 
